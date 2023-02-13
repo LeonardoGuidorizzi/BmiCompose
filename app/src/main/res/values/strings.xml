@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI compose</string>
+    <string name="app_title">BMI CALCULATOR</string>
+    <string name="height_description">Your height in Cm</string>
+    <string name="weight_description">Your weight in Kg</string>
+    <string name="Weight_error">The weight is required</string>
+    <string name="Height_error">The Height is required</string>
+</resources>
